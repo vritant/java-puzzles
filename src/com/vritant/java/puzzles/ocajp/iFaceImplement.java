@@ -1,13 +1,17 @@
+/*
+ * @author vritant
+ */
 package com.vritant.java.puzzles.ocajp;
 
 interface iFace {
-	void implementMe();
+    void implementMe();
 }
 
 public class iFaceImplement implements iFace {
 
-	void implementMe() {
-		// TODO Auto-generated method stub
-	}
+    @Override
+    void implementMe() {
+        // TODO Auto-generated method stub
+    }
 
 }

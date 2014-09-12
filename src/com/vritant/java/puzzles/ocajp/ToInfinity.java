@@ -1,16 +1,19 @@
+/*
+ * @author vritant
+ */
 package com.vritant.java.puzzles.ocajp;
 
 public class ToInfinity {
-	ToInfinity() {
-		this();
-	}
+    ToInfinity() {
+        this();
+    }
 }
 
 class AndBeyond {
-	AndBeyond() {
-		this(0);
-	}
-	AndBeyond(int a) {
-		this();
-	}
+    AndBeyond() {
+        this(0);
+    }
+    AndBeyond(int a) {
+        this();
+    }
 }
