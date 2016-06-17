@@ -18,7 +18,7 @@ public class ForLoupe {
         }
 
         for(int ij=0;ij<3;ij++)
-            System.out.println(ij);
+        System.out.println(ij);
         System.out.println(ij);
 
     }
